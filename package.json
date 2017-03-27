@@ -1,0 +1,16 @@
+{
+  "name": "moviesocre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "message.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qs": "^6.4.0",
+    "tmpl": "^1.0.4",
+    "xml2js": "^0.4.17"
+  }
+}
